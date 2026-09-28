@@ -1,0 +1,12 @@
+{
+  "ram": "4G",
+  "java_path": "",
+  "username": "Biba",
+  "password": "1234",
+  "minecraft_dir": "C:\\Users\\New\\AppData\\Roaming\\.lexplosion\\instances\\tf_test",
+  "server_ip": "play.cybertron-rp.ru",
+  "version": "1.20.1-forge-47.2.0",
+  "theme": "dark_energon",
+  "epoch_name": "Золотой век",
+  "admin_mode": false
+}
